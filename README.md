@@ -1,2 +1,2 @@
-# NT-HATSS
+# NT-HATS
 GORRAS
